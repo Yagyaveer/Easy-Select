@@ -3,7 +3,8 @@
 Main Lua Code:
 
 ```lua
-B:toh Stage Editor By I_Yagyaveer
+--[[
+Easy Select Editor By I_Yagyaveer
 Date Created: 22-10-2021
 Last Modified: 22-10-2021
 ]]
